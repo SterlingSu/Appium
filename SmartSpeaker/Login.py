@@ -6,7 +6,7 @@ from selenium import webdriver
 logging.basicConfig(format='%(asctime)s:%(levelname)s:%(message)s', level=logging.INFO)
 
 Your_Account = "15195772731"
-Your_Password = "sterling123"
+Your_Password = "sterling"
 
 
 class SmartSpeak():
